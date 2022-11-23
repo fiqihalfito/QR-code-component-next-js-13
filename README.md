@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL : [here]()
+- Live Site URL : [here](https://qr-code-component-next-js-13.vercel.app/)
 
 ## My process
 
