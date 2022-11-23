@@ -28,15 +28,11 @@ $font-family: 'Outfit', sans-serif;
         0px 37px 57px rgba(0, 0, 0, 0.07);
 
 
-    .cardImage {
-
-        .image {
-            max-width: 100%;
-            height: auto;
-            border-radius: .5rem;
-        }
+    .image {
+        max-width: 100%;
+        height: auto;
+        border-radius: .5rem;
     }
-
 
     .cardBody {
         padding-inline: .5rem;
