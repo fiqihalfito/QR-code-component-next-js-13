@@ -12,7 +12,7 @@ export default function Home() {
         </div>
         <div className={styles.cardBody}>
           <p className={styles.cardTitle}>
-            Improve your front-end skills by building projectsxxxx
+            Improve your front-end skills by building projects
           </p>
           <p className={styles.cardText}>
             Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
